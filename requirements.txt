@@ -1,3 +1,9 @@
 requests
 streamlit
 PyPDF2
+selenium
+webdriver-manager
+beautifulsoup4
+tabulate
+openpyxl
+bs4
