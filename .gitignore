@@ -1,1 +1,4 @@
-data/
+# Ignore files and directories 
+.vscode/
+.caught/
+
